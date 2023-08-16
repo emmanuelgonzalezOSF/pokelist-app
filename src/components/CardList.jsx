@@ -2,7 +2,7 @@ import Card from "./Card";
 
 const CardList = ({ pokedex }) => {
   return (
-    <div class="container__cards">
+    <div className="container__cards">
       {pokedex.map((pokemon) => (
         <Card pokemon={pokemon} key={pokemon} />
       ))}
