@@ -10,6 +10,7 @@ export default defineConfig({
         main: "src/App.jsx",
         delivery2: "delivery-2/App.jsx",
         delivery3: "delivery-3/App.jsx",
+        delivery3: "delivery-4/App.jsx",
       },
     },
   },
