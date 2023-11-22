@@ -9,6 +9,7 @@
     "delivery-3": "vite --config delivery-3/vite.config.js",
     "delivery-4": "vite --config delivery-4/vite.config.js",
     "delivery-5": "vite --config delivery-5/vite.config.js",
+    "delivery-6": "vite --config delivery-6/vite.config.js",
     "build": "vite build",
     "preview": "vite preview",
     "format": "prettier --write \"src/**/*.{js,jsx,css}\"",

@@ -12,6 +12,7 @@ export default defineConfig({
         delivery3: "delivery-3/App.jsx",
         delivery4: "delivery-4/App.jsx",
         delivery5: "delivery-5/App.jsx",
+        delivery6: "delivery-6/App.jsx",
       },
     },
   },
